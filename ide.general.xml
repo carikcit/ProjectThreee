@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="defaultProjectDirectory" value="/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk" />
   </component>
 </application>

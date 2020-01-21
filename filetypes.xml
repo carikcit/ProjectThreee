@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Deer" type="CLASS" />
       <mapping pattern="PinkRose" type="Image" />
+      <mapping pattern="" type="PLAIN_TEXT" />
       <mapping pattern="MyFirstClass" type="PLAIN_TEXT" />
       <mapping pattern="HackerRank" type="PLAIN_TEXT" />
       <mapping pattern="MondayProject" type="PLAIN_TEXT" />

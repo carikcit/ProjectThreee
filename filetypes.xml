@@ -6,6 +6,8 @@
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping pattern="MyFirstClass" type="PLAIN_TEXT" />
       <mapping pattern="HackerRank" type="PLAIN_TEXT" />
+      <mapping pattern="KWh.txt" type="PLAIN_TEXT" />
+      <mapping pattern="KWh" type="PLAIN_TEXT" />
       <mapping pattern="MondayProject" type="PLAIN_TEXT" />
       <mapping pattern="HwTs1TestNG" type="XML" />
     </extensionMap>

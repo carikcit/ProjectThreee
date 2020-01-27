@@ -9,7 +9,6 @@
       <mapping pattern="KWh.txt" type="PLAIN_TEXT" />
       <mapping pattern="KWh" type="PLAIN_TEXT" />
       <mapping pattern="MondayProject" type="PLAIN_TEXT" />
-      <mapping ext="feature" type="PLAIN_TEXT" />
       <mapping pattern="HwTs1TestNG" type="XML" />
     </extensionMap>
   </component>

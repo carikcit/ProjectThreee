@@ -8,6 +8,7 @@
       <mapping pattern="Student Database Application" type="PLAIN_TEXT" />
       <mapping pattern="HackerRank" type="PLAIN_TEXT" />
       <mapping pattern="KWh.txt" type="PLAIN_TEXT" />
+      <mapping pattern="BankAccts" type="PLAIN_TEXT" />
       <mapping pattern="EmailAppProject" type="PLAIN_TEXT" />
       <mapping pattern="KWh" type="PLAIN_TEXT" />
       <mapping pattern="MondayProject" type="PLAIN_TEXT" />

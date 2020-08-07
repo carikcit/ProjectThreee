@@ -13,6 +13,7 @@
       <mapping pattern="KWh.txt" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping pattern="Student Database Application" type="PLAIN_TEXT" />
+      <mapping ext="features" type="PLAIN_TEXT" />
       <mapping ext="properteis" type="PLAIN_TEXT" />
       <mapping pattern="HwTs1TestNG" type="XML" />
     </extensionMap>

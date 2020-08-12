@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="B" type="CLASS" />
       <mapping pattern="Deer" type="CLASS" />
+      <mapping pattern="LoginDemoSteps_PF" type="CLASS" />
       <mapping pattern="PinkRose" type="Image" />
       <mapping pattern="MondayProject" type="PLAIN_TEXT" />
       <mapping pattern="EmailAppProject" type="PLAIN_TEXT" />

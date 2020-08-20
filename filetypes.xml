@@ -5,6 +5,8 @@
       <mapping pattern="Deer" type="CLASS" />
       <mapping pattern="LoginDemoSteps_PF" type="CLASS" />
       <mapping pattern="PinkRose" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="MondayProject" type="PLAIN_TEXT" />
       <mapping pattern="EmailAppProject" type="PLAIN_TEXT" />
       <mapping pattern="KWh" type="PLAIN_TEXT" />
